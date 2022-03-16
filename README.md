@@ -1,2 +1,2 @@
-# infomatyka
+# informatyka
 Repo do infy
