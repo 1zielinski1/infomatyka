@@ -1,0 +1,2 @@
+# infomatyka
+Repo do infy
